@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="TabButtonTi" width="105" height="197" currentState="normal" xmlns:e="http://ns.egret.com/eui" states="normal,sel">
-	<e:Image source="btn_zuoti_png" x="0" y="0" source.sel="btn_zuoti_1_png" x.normal="0"/>
-</e:Skin>
