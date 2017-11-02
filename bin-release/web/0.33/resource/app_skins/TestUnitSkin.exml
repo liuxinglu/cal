@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TestUnitSkin" width="1145" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group top="0" left="0" bottom="0" right="0" touchEnabled="false" touchThrough="true">
+		<e:Image source="img_shujia_png" x="232" y="5.33" scaleX="1" scaleY="1"/>
+		<e:Image id="img_1" source="img_shuben_yi_png" x="299" y="204" name="1" scaleX="1" scaleY="1"/>
+		<e:Image id="img_2" source="img_shuben_er_png" x="481.19999999999993" y="204" name="2" scaleX="1" scaleY="1"/>
+		<e:Image id="img_3" source="img_shuben_san_png" x="651.54" y="204" name="3" scaleX="1" scaleY="1"/>
+		<e:Image id="img_4" source="img_shuben_si_png" x="366.33" y="400" name="4" scaleX="1" scaleY="1"/>
+		<e:Image id="img_5" source="img_shuben_wu_png" x="587.68" y="400" name="5" scaleX="1" scaleY="1"/>
+		<e:Image source="img_reqiqiu_1_png" x="43" y="11" scaleX="1" scaleY="1"/>
+		<e:Image source="img_reqiqiu_2_png" x="199" y="185" scaleX="1" scaleY="1"/>
+		<e:Image source="img_reqiqiu_3_png" x="991" y="37" scaleX="1" scaleY="1"/>
+	</e:Group>
+</e:Skin>

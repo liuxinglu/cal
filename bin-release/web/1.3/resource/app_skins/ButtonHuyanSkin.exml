@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="ButtonHuyanSkin" states="up,down,disabled,sel" minHeight="20" minWidth="20" xmlns:e="http://ns.egret.com/eui" width="51" height="51">
+    <e:Image width="100%" height="100%" alpha.disabled="0.5" source="btn_huyan_png" source.sel="btn_huyan_png" source.up="btn_huyan_guan_png" scale9Grid="0,0,54,54"/>
+    <e:Label id="labelDisplay" top="8" bottom="8" left="8" right="8"
+             size="20"
+             textColor="0xFFFFFF" verticalAlign="middle" textAlign="center"/>
+    <e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0" source="" source.up="" source.down="" source.disabled="" source.sel=""/>
+</e:Skin>

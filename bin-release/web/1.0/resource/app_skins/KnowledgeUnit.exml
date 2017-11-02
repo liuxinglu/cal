@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="KnowledgeUnit" width="476" height="102" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="img_bg" source="img_zhishidian_putong_png" top="0" left="0" touchEnabled="false"/>
+	<e:Image id="img_pass" source="img_duigou_png" x="400" y="18" touchEnabled="true" visible="false"/>
+	<e:Label id="lab_knowledge" text="" x="27" y="6" size="31" anchorOffsetY="0" height="79" anchorOffsetX="0" width="429" fontFamily="Microsoft YaHei" lineSpacing="8" verticalAlign="middle" touchEnabled="false" textColor="0x803e13"/>
+</e:Skin>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DlgPrint" width="1366" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="img_a4_bg_png" anchorOffsetX="0" anchorOffsetY="0" left="0" top="0" bottom="0" right="0" scale9Grid="0,0,8,8"/>
+	<e:Group width="540" height="768" x="0" y="0" anchorOffsetX="0">
+		<e:Image source="img_a4_bg_png" anchorOffsetX="0" anchorOffsetY="0" left="1" top="0" bottom="0" right="-1" scale9Grid="0,0,8,8"/>
+		<e:Image source="img_a4_xian_png" horizontalCenter="-18.5" top="70"/>
+		<e:Image source="img_a4_jiandao_png" y="567.71" horizontalCenter="-22.5"/>
+		<e:Image source="img_a4_logo_png" x="26.98" y="17"/>
+		<e:Label id="lab_title" text="速算专题" horizontalCenter="-23" fontFamily="Microsoft YaHei" size="30" textColor="0x000000" top="92"/>
+		<e:Image source="img_a4_sxbz_png" right="65" top="21"/>
+		<e:Label id="lab_questions" text="十以内的加法" textColor="0x000000" size="19" fontFamily="Microsoft YaHei" horizontalCenter="-23" top="136"/>
+		<e:Label id="lab_answers" text="十以内的加法" textColor="0x000000" size="19" fontFamily="Microsoft YaHei" horizontalCenter="-23" top="602"/>
+		<e:Group width="420" height="385.05" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="1" top="172">
+			<e:Label id="q0" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q1" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q2" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q3" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q4" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q5" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q6" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q7" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q8" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q9" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q10" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q11" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q12" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q13" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q14" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q15" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q16" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q17" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q18" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:Label id="q19" text="" x="55" y="53" textColor="0x000000" size="18"/>
+			<e:layout>
+				<e:TileLayout requestedColumnCount="2" horizontalAlign="left" columnAlign="justifyUsingWidth" horizontalGap="25" verticalGap="20"/>
+			</e:layout>
+		</e:Group>
+		<e:Group width="420" height="128.3" y="638.66" anchorOffsetY="0" anchorOffsetX="0" horizontalCenter="0">
+			<e:Label id="a0" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a1" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a2" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a3" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a4" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a5" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a6" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a7" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a8" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a9" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a10" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a11" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a12" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a13" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a14" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a15" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a16" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a17" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a18" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:Label id="a19" text="" x="24" y="-554" textColor="0x000000" size="18" scaleX="1" scaleY="1"/>
+			<e:layout>
+				<e:TileLayout requestedColumnCount="4" columnAlign="justifyUsingWidth" verticalGap="6" horizontalAlign="left"/>
+			</e:layout>
+		</e:Group>
+	</e:Group>
+</e:Skin>

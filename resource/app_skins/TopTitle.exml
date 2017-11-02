@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TopTitle" width="1336" height="80" xmlns:e="http://ns.egret.com/eui">
+	<e:Image source="btn_dinglan_png"/>
+</e:Skin>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="GradeUnitSKin" width="1169" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:ui="lxl.ui.*" xmlns:app="app.*" xmlns:w="http://ns.egret.com/wing">
+	<ui:CButton id="btn_left" label="" y="69" skinName="ButtonLeftSkin" name="btn_left" anchorOffsetX="52" anchorOffsetY="54" x="297"/>
+	<ui:CButton id="btn_right" label="" y="69" skinName="ButtonRightSkin" name="btn_right" anchorOffsetX="52" anchorOffsetY="54" x="697"/>
+	<e:Label id="lab_grade" text="一年级" y="32.5" size="75" horizontalCenter="-86" fontFamily="Microsoft YaHei" bold="true"/>
+	<e:Scroller id="scroll" anchorOffsetX="0" anchorOffsetY="0" bottom="0" top="153" left="-1" right="58">
+		<e:Group id="group">
+			<e:layout>
+				<e:TileLayout requestedColumnCount="2" verticalGap="15" horizontalGap="62"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+</e:Skin>

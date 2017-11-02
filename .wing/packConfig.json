@@ -1,0 +1,10 @@
+{
+    "useClip": false,
+    "maxImageWidth": 1024,
+    "maxImageHeight": 1024,
+    "defaultResPath": "d:\\work\\cal\\resource\\default.res.json",
+    "packGroups": {
+        "preload": true,
+        "main": true
+    }
+}

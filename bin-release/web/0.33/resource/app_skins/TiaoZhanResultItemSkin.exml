@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TiaoZhanResultItemSkin" width="500" height="71" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="img_xian_png" horizontalCenter="0" bottom="2"/>
+	<e:Label id="lab_question" text="" y="27" textAlign="center" anchorOffsetX="0" width="392" horizontalCenter="0" textColor="0x714c38"/>
+</e:Skin>

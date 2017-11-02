@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ResultItemSkin" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="597" height="96">
+	<e:Image source="img_kuang_liebiao_png"/>
+	<e:Label id="lab_knowledge" text="" verticalCenter="-1" horizontalCenter="-1" textColor="0x7f4c38" fontFamily="Microsoft YaHei" textAlign="center" anchorOffsetX="0" width="563" anchorOffsetY="0" height="66" verticalAlign="middle"/>
+	<e:Image id="img_pass" source="img_duigou_png" x="497" verticalCenter="0" visible="false"/>
+</e:Skin>

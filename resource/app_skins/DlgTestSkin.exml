@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DlgTestSkin" width="1366" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:app="app.*" xmlns:ui="lxl.ui.*" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="img_bg_zuoti_png" left="0" top="0" bottom="0" right="0"/>
+	<ui:CButton id="btn_test" label="" skinName="ButtonDrawSkin" width="110" height="100" anchorOffsetX="55" anchorOffsetY="50" bottom="18" horizontalCenter="173"/>
+	<app:TopTitle id="topTitle" skinName="TopTitle" top="0" left="0" visible="false"/>
+	<ui:CButton id="btn_close" label="" right="20" top="16" skinName="ButtonCloseSkin"/>
+	<e:Image id="img_yi" source="img_weizuo_san_png" top="171" horizontalCenter="-200.5"/>
+	<e:Scroller height="533" anchorOffsetX="0" anchorOffsetY="0" left="60" right="462" top="134">
+		<e:Group id="group">
+			<e:layout>
+				<e:VerticalLayout verticalAlign="middle" horizontalAlign="center" gap="20"/>
+			</e:layout>
+		</e:Group>
+	</e:Scroller>
+	<ui:CButton id="btn_1" label="1" name="1" anchorOffsetX="57" anchorOffsetY="44" skinName="ButtonAnswer2" horizontalCenter="351" verticalCenter="-110"/>
+	<ui:CButton id="btn_2" label="2" name="2" skinName="ButtonAnswer2" anchorOffsetX="57" anchorOffsetY="44" verticalCenter="-110" horizontalCenter="476"/>
+	<ui:CButton id="btn_3" label="3" name="3" anchorOffsetX="57" anchorOffsetY="44" skinName="ButtonAnswer2" horizontalCenter="602" verticalCenter="-110"/>
+	<ui:CButton id="btn_4" label="4" name="4" skinName="ButtonAnswer2" anchorOffsetX="57" anchorOffsetY="44" horizontalCenter="351" verticalCenter="-12"/>
+	<ui:CButton id="btn_5" label="5" name="5" anchorOffsetX="57" anchorOffsetY="44" skinName="ButtonAnswer2" horizontalCenter="477" verticalCenter="-11"/>
+	<ui:CButton id="btn_6" label="6" name="6" skinName="ButtonAnswer2" anchorOffsetX="57" anchorOffsetY="44" verticalCenter="-12" horizontalCenter="602"/>
+	<ui:CButton id="btn_7" label="7" name="7" anchorOffsetX="57" anchorOffsetY="44" skinName="ButtonAnswer2" verticalCenter="86" horizontalCenter="351"/>
+	<ui:CButton id="btn_8" label="8" name="8" skinName="ButtonAnswer2" anchorOffsetX="57" anchorOffsetY="44" horizontalCenter="477" verticalCenter="88"/>
+	<ui:CButton id="btn_9" label="9" name="9" anchorOffsetX="57" anchorOffsetY="44" skinName="ButtonAnswer2" horizontalCenter="602" verticalCenter="86"/>
+	<ui:CButton id="btn_0" label="0" name="0" skinName="ButtonAnswer2" anchorOffsetX="57" anchorOffsetY="44" verticalCenter="184" horizontalCenter="477"/>
+	<ui:CButton id="btn_pnt" label="." name="pnt" skinName="ButtonAnswer2" anchorOffsetX="57" anchorOffsetY="44" horizontalCenter="351" verticalCenter="184"/>
+	<ui:CButton id="btn_clear" label="" name="clear" skinName="ButtonCancelSkin" anchorOffsetX="57" anchorOffsetY="44" icon="btn_qingChu_png" horizontalCenter="602" verticalCenter="184"/>
+	<ui:CButton id="btn_submit" label="" name="submit" anchorOffsetY="50" anchorOffsetX="181" skinName="ButtonSubmitSkin" horizontalCenter="475.5" verticalCenter="299"/>
+	<ui:CButton id="btn_submit0" label="确定" x="1224" y="654" skinName="skins.ButtonSkin" name="submit" visible="false"/>
+	<e:Label id="lab_num" text="1/10" x="1156" y="136" size="40" textColor="0xa16030" fontFamily="Microsoft YaHei"/>
+	<e:Label text="题型" x="1070" y="135" textColor="0xa16030" size="40" fontFamily="Microsoft YaHei"/>
+</e:Skin>
