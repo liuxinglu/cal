@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="DlgSuccess" width="1366" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
-	<e:Image id="img_bg" source="img_guangshu_png" verticalCenter="-92" horizontalCenter="0" anchorOffsetX="210" anchorOffsetY="210"/>
-	<e:Image source="img_zhangwo_png" verticalCenter="0" horizontalCenter="0"/>
-	<e:Label text="你已掌握了当前知识点！" fontFamily="Microsoft YaHei" bold="true" textAlign="center" anchorOffsetX="0" width="440" horizontalCenter="0" anchorOffsetY="0" height="62" size="36" textColor="0xec812e" touchEnabled="false" verticalCenter="38"/>
-	<e:Label text="点击关闭" textColor="0xec812e" fontFamily="Microsoft YaHei" touchEnabled="false" horizontalCenter="0" verticalCenter="123"/>
-</e:Skin>

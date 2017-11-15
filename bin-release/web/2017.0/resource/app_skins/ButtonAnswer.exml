@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<e:Skin class="ButtonAnswer" states="up,down,disabled" minHeight="48" minWidth="48" currentState="up" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
-    <e:Image id="img_bg_zuoti_png" alpha.disabled="0.5"
-             anchorOffsetX="0" left="0" right="0" top="0" bottom="0" source="btn_qianAnNiu_1_png"/>
-    <e:Label id="labelDisplay"
-             size="50"
-             verticalAlign="middle" textAlign="center" height="72" width="98" verticalCenter="0" horizontalCenter="0" text="" textColor="0xffbb02"/>
-    <e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0" source="" source.up="" source.down="" source.disabled=""/>
-</e:Skin>

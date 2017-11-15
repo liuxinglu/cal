@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="TabButtonCe" width="105" height="197" currentState="normal" xmlns:e="http://ns.egret.com/eui" states="sel,normal" >
-	<e:Image source="btn_ceshi_png" y="0" x="0" source.sel="btn_ceshi_1_png" x.normal="0"/>
-</e:Skin>

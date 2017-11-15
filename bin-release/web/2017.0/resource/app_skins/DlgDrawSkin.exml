@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="DlgDrawSkin" width="1366" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:ui="lxl.ui.*" xmlns:w="http://ns.egret.com/wing">
-	<ui:CButton id="btn_close" label="" x="1295" y="0" skinName="ButtonCloseSkin"/>
-	<ui:CButton id="btn_save" label="" right="20" bottom="20" skinName="ButtonSaveSkin"/>
-	<ui:CButton id="btn_earse" label="" skinName="ButtonErase" right="20" bottom="124"/>
-</e:Skin>

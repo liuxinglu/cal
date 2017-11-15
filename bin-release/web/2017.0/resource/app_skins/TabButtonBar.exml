@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<e:Skin class="TabButtonBar" width="105" height="610.12" xmlns:e="http://ns.egret.com/eui" xmlns:ui="lxl.ui.*" xmlns:w="http://ns.egret.com/wing">
-	<e:Group left="0" right="0" top="0" bottom="0" touchEnabled="false" touchThrough="true">
-		<ui:TabButton id="btn_0" label="" x="0" skinName="TabButtonCe" scaleX="1" scaleY="1" bottom="35"/>
-		<ui:TabButton id="btn_1" label="" x="0" skinName="TabButtonTi" verticalCenter="0" y="207" scaleX="1" scaleY="1" visible="false"/>
-		<ui:TabButton id="btn_2" label="" x="0" skinName="TabButtonTiao" scaleX="1" scaleY="1" top="35"/>
-	</e:Group>
-</e:Skin>
