@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="DlgShareSkin" width="1366" height="768" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="img_sharebg_png" rotation="270" left="0" top="0" bottom="0" right="0"/>
+	<e:Image id="img_tip" source="img_jiepingfenxiang_png" rotation="270" left="0" top="0" bottom="0"/>
+	<e:Label id="lab_desc" text="超过了20%的同学" x="580.36" rotation="270" textColor="0xff9600" size="30" verticalCenter="0.5" fontFamily="SimHei"/>
+	<e:Label id="lab_knowledge" text="test" x="692.3" rotation="270" size="26" anchorOffsetX="0" width="304.67" fontFamily="SimHei" anchorOffsetY="0" height="36" y="408" textColor="0x58c3ec"/>
+	<e:Label id="lab_rate" text="test" x="794.99" rotation="270" size="26" anchorOffsetX="0" width="268.67" textColor="0x67ba00" fontFamily="SimHei" y="415" height="36"/>
+	<e:Label id="lab_time" text="test" x="901.71" rotation="270" size="26" anchorOffsetX="0" width="268.67" textColor="0xe29443" y="415" fontFamily="SimHei" height="36"/>
+	<e:Label id="lab_desc2" text="" x="1055.71" rotation="270" size="26" anchorOffsetX="0" width="518" fontFamily="SimHei" textColor="0xfcfcfc" anchorOffsetY="0" height="39.33" verticalCenter="0" textAlign="center"/>
+	<e:Image id="img_title" x="276.34" rotation="270" verticalCenter="0.5" source="img_zhuangyuan_6_png"/>
+	<e:Label id="lab_title" text="" x="472.34" rotation="270" verticalCenter="0.5" fontFamily="SimHei"/>
+</e:Skin>

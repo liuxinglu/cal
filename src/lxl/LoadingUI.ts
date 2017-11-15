@@ -26,7 +26,7 @@ module lxl {
             this.textField.height = 100;
             this.textField.anchorOffsetX = this.textField.width / 2;
             this.textField.anchorOffsetY = this.textField.height / 2;
-            this.textField.y = this.height / 2 + 120;
+            this.textField.y = this.height / 2 + 220;
             this.textField.x = this.width / 2;
             this.textField.textAlign = "center";
             this.addChild(this.textField);
@@ -34,7 +34,7 @@ module lxl {
         }
 
         public setProgress(current: number, total: number): void {
-            // this.textField.text = `Loading...${current}/${total}`;
+            this.textField.text = `Loading...${current}/${total}`;
         }
     }
 }

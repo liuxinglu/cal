@@ -18,7 +18,7 @@ var app;
             this.btn_tabBtns.addEventListener(lxl.CEvent.TAB_ACTIVITY, this._updateTabView, this);
             lxl.CDispatcher.getInstance().addListener(lxl.CEvent.KNOWLEDGE_ACTIVITY, this._showQuestionDlg, this);
             this.testUnit.addEventListener(lxl.CEvent.GRADE_SELECT, this._gradeSelHandler, this);
-            this.btn_tabBtns.setActIndex(0);
+            this.btn_tabBtns.setActIndex(2);
             lxl.CDispatcher.getInstance().addListener(lxl.CEvent.SHOW_INFO, this._showInfo, this);
         };
         MainView.prototype._showInfo = function (e) {

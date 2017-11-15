@@ -52,7 +52,7 @@ module app {
 
 		getJudgeTitleIndex(index:number):number {
 			let rate = Math.floor(Cal.cuoTiBen.length * 100 / Cal.curQs.length) / 100;
-			let delta = Cal.tiaoZhanSeconds * rate;
+			let delta = Math.floor(Cal.tiaoZhanSeconds / 1000) * rate;
 			let staticUnit = 0;
 			let fastTime = this._gradeSeconds[index][0];
 			let lowTime = this._gradeSeconds[index][this._gradeSeconds[index].length - 1];

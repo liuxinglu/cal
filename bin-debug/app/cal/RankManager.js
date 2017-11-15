@@ -54,7 +54,7 @@ var app;
         };
         RankManager.prototype.getJudgeTitleIndex = function (index) {
             var rate = Math.floor(Cal.cuoTiBen.length * 100 / Cal.curQs.length) / 100;
-            var delta = Cal.tiaoZhanSeconds * rate;
+            var delta = Math.floor(Cal.tiaoZhanSeconds / 1000) * rate;
             var staticUnit = 0;
             var fastTime = this._gradeSeconds[index][0];
             var lowTime = this._gradeSeconds[index][this._gradeSeconds[index].length - 1];

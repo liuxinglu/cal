@@ -46,6 +46,7 @@ module app {
 
 		private _share:app.DlgShare;
 		private _shareHandler(e:lxl.CEvent) {
+			lxl.Tool.callJS("shareMsg");
 			this._share = new app.DlgShare();
 			this.pop(this._share);
 			this._share.addEventListener(lxl.CEvent.CLOSE, this._shareClose, this);

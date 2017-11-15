@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TabButtonTiao" currentState="normal" xmlns:e="http://ns.egret.com/eui" states="sel,normal"  width="105" height="197">
+	<e:Image y="0" x="0" x.normal="0" source="btn_ceshi_png" source.sel="btn_tiaozhan_1_png" source.normal="btn_tiaozhan_png"/>
+</e:Skin>
